@@ -1,5 +1,7 @@
 This project is a Weather check web app, used React, Redux, Redux-Saga.
 
+npm install && npm start
+
 ## Features
 
 - React + Redux + Redux-Saga + Bootstrap 4
